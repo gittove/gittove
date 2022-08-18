@@ -2,4 +2,4 @@
 
 ### I'm a game programmer with a special liking to **gameplay** and **audio**, based in Stockholm Sweden. :video_game:
 
-<img src="https://raw.githubusercontent.com/gittove/gittove/d9eae18fea6799676de619ce7fa04993e9eaf2ee/icons/cplusplus.svg" width="150" height="280">
+<img src="https://raw.githubusercontent.com/gittove/gittove/a6a76075cc888fca5ca56bc3d7ef3189d36cdfe7/icons/cplusplus.svg" width="150" height="280">
